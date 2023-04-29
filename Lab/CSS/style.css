@@ -1,0 +1,64 @@
+p {
+    font-size: 1.2em;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    text-indent: 13px;
+    text-decoration: underline blue dotted;
+    border: 4px dotted red;
+}
+
+
+.class1 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.class2 {
+    color: red;
+}
+
+#header {
+    margin: auto;
+    background-color: #123;
+    color: aliceblue;
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+}
+
+#footer {
+    background-color: #123;
+    color: aliceblue;
+    font-size: 50;
+    padding: 10;
+    text-align: right;
+}
+
+#nav {
+    background-color: #123;
+    color: blanchedalmond;
+    font-size: 50;
+    padding: 10;
+    text-align: left;
+}
+
+.DUMA {
+    background-image: url(1.png);
+}
+
+.textbox {
+    width: 200px;
+    height: 30px;
+}
+
+.text {
+    color: aqua;
+}
+
+a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
